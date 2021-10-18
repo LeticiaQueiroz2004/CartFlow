@@ -49,6 +49,11 @@ const Container = styled.div`
   
     margin: 1em;
   }
+  .commentsButton {
+    width: 11em;
+    display: flex;
+    justify-content: space-between;
+  }
 
 `
 
